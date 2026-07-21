@@ -1,1 +1,13 @@
-
+{
+  "versions": [
+    {
+      "version": "26.1.2",
+      "name": "tgamines",
+      "released": "2026-07-21T10:59:00Z",
+      "status": "Online",
+      "size": "3.9 MB",
+      "ip": "tgamines.minehut.gg",
+      "systems": {
+        "sha256": "d32522748bb3bef6b59ade68d5e07507edac896b95db5e910ba1560cb10716f9"
+        ]
+}
