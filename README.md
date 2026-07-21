@@ -13,7 +13,7 @@ Xem player banned tại
 `tgamines.bedrock.minehut.gg`
 
 **Minecraft Vesions:**
-Paper 26.1.2
+Paper 26.1.2 |
 1.21.11 > now
 
 # Help
